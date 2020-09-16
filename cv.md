@@ -1,6 +1,6 @@
 Max Vitko
 =
-Contactsssssssssssssssss
+Contacts
 ---
 + _**Email:**_ vitkomax01@gmail.com
 + _**Discord:**_  talencote#4842
