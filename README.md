@@ -1,1 +1,1 @@
-https://talencote.github.io/rsschool-cv/cv
+https://talencote.github.io/rsschool-cv/
