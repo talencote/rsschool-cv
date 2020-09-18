@@ -1,0 +1,51 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: ghostwhite;
+    font-size: 20px;
+}
+
+.section {
+    margin: 20px 0px 80px 40px;
+}
+
+.main_title {
+    font-size: 2em;
+}
+
+.title {
+    font-size: 1.5em;
+}
+
+.contact {
+    font-style: italic;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+code {
+    background-color: rgba(128, 128, 128, 0.2);
+    padding: 20px;
+    margin: 10px;
+    opacity: 0.9;
+    border-radius: 5px;
+}
+
+.micro_margin {
+    margin: 5px;
+}
+
+.photo {
+    float: right;
+    margin-right: 50px;
+    height: 200px;
+    border-radius: 100px;
+    border: 3px solid black;
+    box-shadow: 10px 10px 40px #00000020;
+}
+
+.cycle_photo {
+    border-radius: 48%;
+}
